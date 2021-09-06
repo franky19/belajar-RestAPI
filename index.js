@@ -7,5 +7,4 @@ var db = mysql.createConnection({
     database: "petani_kopi"
 });
 
-
 module.exports = db;
