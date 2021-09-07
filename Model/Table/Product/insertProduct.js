@@ -1,4 +1,4 @@
-var db = require("../../../index");
+const db = require("../../../index");
 
 db.connect(function(err) {
     if (err) throw err;
