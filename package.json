@@ -1,11 +1,17 @@
 {
   "name": "belajar-restapi",
   "version": "1.0.0",
-  "description": "belajar-restapi v1.0",
-  "main": "index.js",
+  "description": "Node.js Restful CRUD API with Node.js, Express and MySQL",
+  "main": "server.js",
   "scripts": {
     "test": "\"echo \"Error:no test specified\" && exit 1\""
   },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/franky19/belajar-restAPI.git"
